@@ -155,7 +155,7 @@ h6 {
 #  Get Startet Button
 --------------------------------------------------------------*/
 .get-started-btn {
-  color: #fff;
+  color: rgb(153, 133, 21);
   border-radius: 4px;
   padding: 7px 25px 8px 25px;
   white-space: nowrap;
